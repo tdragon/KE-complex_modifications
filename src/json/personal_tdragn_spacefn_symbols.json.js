@@ -26,7 +26,7 @@ function main() {
               generateSpaceFnSymbol('p', '5', ["left_shift"]),
 
               generateSpaceFnSymbol('a', '1', ["left_shift"]),
-              generateSpaceFnSymbol('s', 'hyphen', []),
+              generateSpaceFnSymbol('s', 'hyphen', ["left_shift"]),
               generateSpaceFnSymbol('d', 'equal_sign', ["left_shift"]),
               generateSpaceFnSymbol('f', 'equal_sign', []),
               generateSpaceFnSymbol('g', '3', ["left_shift"]),
@@ -45,7 +45,7 @@ function main() {
               generateSpaceFnSymbol('m', '4', ["left_shift"]),
               generateSpaceFnSymbol('comma', 'open_bracket', ["left_shift"]),
               generateSpaceFnSymbol('period', 'close_bracket', ["left_shift"]),
-              generateSpaceFnSymbol('slash', '2', ["left_shift"])
+              generateSpaceFnSymbol('slash', '5', ["left_shift"])
             )
           }
         ]
